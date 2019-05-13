@@ -1,4 +1,4 @@
-# mad
+# MAD ABC
 
 面向[MAD](https://zh.wikipedia.org/wiki/MAD%E7%89%87)仔**初心者**的简明指南。
 
