@@ -6,6 +6,13 @@
 > 
 > 或者加入[Discord交流服务器](https://discord.gg/nSaDa7k)一起~~吹水~~跤流
 > 
+> ----
+> 目前参与者：
+> 
+>![k652](resource/images/pfp/k652.jpeg =50x) [框652](https://space.bilibili.com/13791159)
+> 
+> ----
+> # 欢迎各位积极加入~
 > ![akarin](resource/images/akarin.png)
 -----
 
