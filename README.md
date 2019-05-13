@@ -9,7 +9,8 @@
 > ----
 > 目前参与者：
 > 
->![k652](resource/images/pfp/k652.jpeg =50x) 
+>![k652](resource/images/pfp/k652.png) 
+> 
 >[框652](https://space.bilibili.com/13791159)
 > 
 > ----
