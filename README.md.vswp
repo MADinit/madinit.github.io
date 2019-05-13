@@ -10,22 +10,21 @@ vnote_backup_file_826537664 E:/LibMadabc/test/madabc.github.io/README.md
 > ![akarin](resource/images/akarin.png)
 -----
 
-# 1. 目录
-## 1.1. [概述：MAD的前世今生及未来](resource/text/overview.md)
-### 1.1.1. 前世
-### 1.1.2. 今生
-### 1.1.3. 未来
-### 1.1.4. ……
-## 1.2. [前期](resource/text/ini.md)
-### 1.2.1. 素材
-### 1.2.2. 软件
-### 1.2.3. 导入
-### 1.2.4. ……
-## 1.3. [制作](resource/text/main.md)
-### 1.3.1. ……
-## 1.4. [渲染及压制](resource/text/out.md)
-### 1.4.1. ……
-## 1.5. [一些基本原则](resource/text/basics.md)
-### 1.5.1. ……
-## 1.6. [写在结尾](resource/text/nonsns.md)
-### 1.6.1. ……
+# 1. [概述：MAD的前世今生及未来](resource/text/overview.md)
+## 1.1. 前世
+## 1.2. 今生
+## 1.3. 未来
+## 1.4. ……
+# 2. [前期](resource/text/ini.md)
+## 2.1. 素材
+## 2.2. 软件
+## 2.3. 导入
+## 2.4. ……
+# 3. [制作](resource/text/main.md)
+## 3.1. ……
+# 4. [渲染及压制](resource/text/out.md)
+## 4.1. ……
+# 5. [一些基本原则](resource/text/basics.md)
+## 5.1. ……
+# 6. [写在结尾](resource/text/nonsns.md)
+## 6.1. ……
